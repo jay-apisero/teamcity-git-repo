@@ -1,0 +1,1 @@
+# teamcity-git-repo
